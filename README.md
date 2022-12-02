@@ -40,8 +40,8 @@ Here is a bit about my interests and how to get in touch:
 <br></br>
 
 
-- 🔭 I’m currently working on state of the art Tracking in Real time using sort and deep Sort.
-- 🌱 I’m currently learning reinforcement learning, knowledge graphs and natural language processing.
+- 🔭 I’m currently working on Deep Learning and Computer Vision projects.
+- 🌱 I’m currently learning Transfer learning, knowledge graphs and Image Processing.
 - 💬 Ask me about new machine learning techniques and let's collaborate on making them even better!
 - 📫 How to reach me: mzainabkhan85@gmail.com
 - 😄 Pronouns: She/her
